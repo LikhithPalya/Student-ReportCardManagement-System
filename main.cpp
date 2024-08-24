@@ -5,10 +5,10 @@
 #include <sstream>
 using namespace std;
 
-const char* HOST = "localhost";
+const char* HOST = "<hostname>";
 const char* USER = "root";
-const char* PW = "loveyouelgato";
-const char* DB = "mydb";
+const char* PW = "<password>";
+const char* DB = "<dbname>";
 
 class Student{
 private:
